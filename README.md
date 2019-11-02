@@ -13,7 +13,7 @@ dependency
 __________
 
 dependencies {
-	        implementation 'com.github.sandlib:Alert-Dialog:Tag'
+	        implementation 'com.github.sandlib:Alert-Dialog:v1.0'
 	}
 
 
