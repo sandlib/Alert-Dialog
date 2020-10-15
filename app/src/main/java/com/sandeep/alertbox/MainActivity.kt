@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         button.setOnClickListener {
+            // Trigger the AlertDialog here
+            //TODO show the alert dialog.
         }
     }
 
